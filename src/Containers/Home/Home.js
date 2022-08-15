@@ -9,7 +9,6 @@ function Home() {
 
     return (
         <div className="App">
-      <header className="App-header"/>
       <div className="App-body">
       The Gur languages, also known as Central Gur or Mabia, belong to the Niger–Congo language family. There are about 70 languages belonging to this group. They are spoken in the Sahelian and savanna regions of West Africa, namely: in most areas of Burkina Faso, and in south-central Mali, northeastern Ivory Coast, the northern halves of Ghana and Togo, northwestern Benin, and southwestern Niger. Additionally, a single Gur language, Baatonum, is spoken in the extreme northwest of Nigeria. Like most Niger–Congo languages, the ancestor of Gur languages probably had a noun class system; many of today's languages have reduced this to a system of nominal genders or declensions or no longer have a class system.A common property of Gur languages is the verbal aspect marking. Almost all Gur languages are tonal, with Koromfé being a notable exception. The tonal systems of Gur languages are rather divergent. Most Gur languages have been described as following the model of a two tone downstep system, but the languages of Oti-Volta branch and some others have three phonemic tones.
 
